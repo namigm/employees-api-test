@@ -1,0 +1,594 @@
+09/23/2023 06: 52: 36 PM - INFO - Connection to DB using creds: <connection object at 0x00000165DF037150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/23/2023 06: 52: 36 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/23/2023 06: 52: 36 PM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/23/2023 06: 52: 38 PM - INFO - Getting required ID: 1
+09/23/2023 06: 52: 56 PM - INFO - Test data set has been deleted: 1
+09/23/2023 06: 52: 56 PM - INFO - Test data set has been deleted: 2
+09/23/2023 06: 52: 56 PM - INFO - Test data set has been deleted: 3
+09/23/2023 06: 52: 56 PM - INFO - Close DB connection
+09/23/2023 11: 57: 23 PM - INFO - Connection to DB using creds: <connection object at 0x000001F68F527150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/23/2023 11: 57: 23 PM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/23/2023 11: 57: 23 PM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/23/2023 11: 57: 25 PM - INFO - Getting required ID: 3
+09/23/2023 11: 57: 46 PM - INFO - Test data set has been deleted: 3
+09/23/2023 11: 57: 46 PM - INFO - Test data set has been deleted: 4
+09/23/2023 11: 57: 46 PM - INFO - Test data set has been deleted: 5
+09/23/2023 11: 57: 46 PM - INFO - Close DB connection
+09/24/2023 12: 00: 27 AM - INFO - Connection to DB using creds: <connection object at 0x000001E9721C6150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 00: 27 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 00: 27 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 12: 00: 29 AM - INFO - Getting required ID: 1
+09/24/2023 12: 00: 53 AM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 00: 53 AM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 00: 53 AM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 00: 53 AM - INFO - Close DB connection
+09/24/2023 12: 02: 16 AM - INFO - Connection to DB using creds: <connection object at 0x0000027930DB6150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 02: 16 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 02: 16 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 12: 02: 18 AM - INFO - Getting required ID: 1
+09/24/2023 12: 02: 41 AM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 02: 41 AM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 02: 41 AM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 02: 41 AM - INFO - Close DB connection
+09/24/2023 01: 15: 03 AM - INFO - Connection to DB using creds: <connection object at 0x00000239C04D8150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 15: 03 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 15: 03 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 15: 05 AM - INFO - Getting required ID: 1
+09/24/2023 01: 15: 24 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 15: 24 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 15: 24 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 15: 24 AM - INFO - Close DB connection
+09/24/2023 01: 18: 08 AM - INFO - Connection to DB using creds: <connection object at 0x00000156B0F29150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 18: 08 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 18: 08 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 18: 10 AM - INFO - Getting required ID: 1
+09/24/2023 01: 18: 29 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 18: 29 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 18: 29 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 18: 29 AM - INFO - Close DB connection
+09/24/2023 01: 32: 15 AM - INFO - Connection to DB using creds: <connection object at 0x000001C332C58150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 32: 15 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 32: 15 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 32: 17 AM - INFO - Getting required ID: 1
+09/24/2023 01: 32: 38 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 32: 38 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 32: 38 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 32: 38 AM - INFO - Close DB connection
+09/24/2023 01: 36: 31 AM - INFO - Connection to DB using creds: <connection object at 0x00000181932C7150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 36: 31 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 36: 31 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 36: 33 AM - INFO - Getting required ID: 1
+09/24/2023 01: 36: 54 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 36: 54 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 36: 54 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 36: 54 AM - INFO - Close DB connection
+09/24/2023 01: 39: 19 AM - INFO - Connection to DB using creds: <connection object at 0x000001A084B27150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 39: 19 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 39: 19 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 39: 21 AM - INFO - Getting required ID: 1
+09/24/2023 01: 39: 42 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 39: 42 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 39: 42 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 39: 42 AM - INFO - Close DB connection
+09/24/2023 01: 40: 40 AM - INFO - Connection to DB using creds: <connection object at 0x000001CB07CB7150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 40: 40 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 40: 40 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 40: 43 AM - INFO - Getting required ID: 1
+09/24/2023 01: 41: 04 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 41: 04 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 41: 04 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 41: 04 AM - INFO - Close DB connection
+09/24/2023 01: 42: 27 AM - INFO - Connection to DB using creds: <connection object at 0x0000025C683C8150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 42: 27 AM - INFO - Test data set has been created: [{'employeeId': 2, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 3, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 4, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 42: 27 AM - INFO - Getting required data: {'employeeId': 2, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 42: 29 AM - INFO - Getting required ID: 2
+09/24/2023 01: 43: 07 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 43: 07 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 43: 07 AM - INFO - Test data set has been deleted: 4
+09/24/2023 01: 43: 07 AM - INFO - Close DB connection
+09/24/2023 01: 44: 16 AM - INFO - Connection to DB using creds: <connection object at 0x000001EDD7E97150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 44: 16 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 44: 16 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 44: 18 AM - INFO - Getting required ID: 1
+09/24/2023 01: 44: 54 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 44: 54 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 44: 54 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 44: 54 AM - INFO - Close DB connection
+09/24/2023 01: 45: 37 AM - INFO - Connection to DB using creds: <connection object at 0x000001456C528150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 45: 37 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 45: 37 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 45: 39 AM - INFO - Getting required ID: 1
+09/24/2023 01: 45: 56 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 45: 56 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 45: 56 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 45: 56 AM - INFO - Close DB connection
+09/24/2023 01: 47: 17 AM - INFO - Connection to DB using creds: <connection object at 0x000001BAE0468150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 47: 17 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 47: 17 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 01: 47: 19 AM - INFO - Getting required ID: 1
+09/24/2023 01: 50: 11 AM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 50: 11 AM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 50: 11 AM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 50: 11 AM - INFO - Close DB connection
+09/24/2023 02: 02: 57 AM - INFO - Connection to DB using creds: <connection object at 0x00000262DBC48150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 02: 57 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 02: 57 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 02: 59 AM - INFO - Getting required ID: 1
+09/24/2023 02: 03: 02 AM - INFO - Close DB connection
+09/24/2023 02: 05: 43 AM - INFO - Connection to DB using creds: <connection object at 0x000001DB9B488150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 05: 43 AM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 05: 43 AM - INFO - Getting required data: {'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 05: 45 AM - INFO - Getting required ID: 5
+09/24/2023 02: 08: 42 AM - INFO - Connection to DB using creds: <connection object at 0x00000253735F7150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 08: 42 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 08: 42 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 08: 44 AM - INFO - Getting required ID: 1
+09/24/2023 02: 09: 36 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 09: 36 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 09: 36 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 09: 36 AM - INFO - Close DB connection
+09/24/2023 02: 14: 10 AM - INFO - Connection to DB using creds: <connection object at 0x000001DBC4136150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 14: 10 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 14: 10 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 14: 12 AM - INFO - Getting required ID: 1
+09/24/2023 02: 15: 04 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 15: 04 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 15: 04 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 15: 04 AM - INFO - Close DB connection
+09/24/2023 02: 21: 00 AM - INFO - Connection to DB using creds: <connection object at 0x0000026DB4E86150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 21: 00 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 21: 00 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 21: 03 AM - INFO - Getting required ID: 1
+09/24/2023 02: 21: 54 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 21: 54 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 21: 54 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 21: 54 AM - INFO - Close DB connection
+09/24/2023 02: 26: 37 AM - INFO - Connection to DB using creds: <connection object at 0x0000014560448150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 26: 37 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 26: 37 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 26: 39 AM - INFO - Getting required ID: 1
+09/24/2023 02: 27: 30 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 27: 30 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 27: 30 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 27: 30 AM - INFO - Close DB connection
+09/24/2023 02: 33: 23 AM - INFO - Connection to DB using creds: <connection object at 0x000002AADB208150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 33: 23 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 33: 23 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 33: 25 AM - INFO - Getting required ID: 1
+09/24/2023 02: 33: 44 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 33: 44 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 33: 44 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 33: 44 AM - INFO - Close DB connection
+09/24/2023 02: 40: 58 AM - INFO - Connection to DB using creds: <connection object at 0x00000160A3528150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 40: 58 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 40: 58 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 41: 00 AM - INFO - Getting required ID: 1
+09/24/2023 02: 41: 51 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 41: 51 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 41: 51 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 41: 51 AM - INFO - Close DB connection
+09/24/2023 02: 43: 51 AM - INFO - Connection to DB using creds: <connection object at 0x0000026DCE5C8150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 43: 51 AM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 43: 51 AM - INFO - Getting required data: {'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 43: 53 AM - INFO - Getting required ID: 5
+09/24/2023 02: 44: 44 AM - INFO - Test data set has been deleted: 5
+09/24/2023 02: 44: 44 AM - INFO - Test data set has been deleted: 6
+09/24/2023 02: 44: 44 AM - INFO - Test data set has been deleted: 7
+09/24/2023 02: 44: 44 AM - INFO - Close DB connection
+09/24/2023 02: 49: 39 AM - INFO - Connection to DB using creds: <connection object at 0x0000018DE24C8150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 49: 39 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 49: 39 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 49: 41 AM - INFO - Getting required ID: 1
+09/24/2023 02: 50: 01 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 50: 01 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 50: 01 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 50: 01 AM - INFO - Close DB connection
+09/24/2023 02: 51: 19 AM - INFO - Connection to DB using creds: <connection object at 0x0000017F95566150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 51: 19 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 51: 19 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 51: 21 AM - INFO - Getting required ID: 1
+09/24/2023 02: 51: 40 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 51: 40 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 51: 40 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 51: 40 AM - INFO - Close DB connection
+09/24/2023 02: 52: 53 AM - INFO - Connection to DB using creds: <connection object at 0x000001A1D7308150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 52: 53 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 52: 53 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 52: 55 AM - INFO - Getting required ID: 1
+09/24/2023 02: 53: 46 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 53: 46 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 53: 46 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 53: 46 AM - INFO - Close DB connection
+09/24/2023 02: 54: 03 AM - INFO - Connection to DB using creds: <connection object at 0x00000123134E8150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 54: 03 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 54: 03 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 54: 05 AM - INFO - Getting required ID: 1
+09/24/2023 02: 54: 56 AM - INFO - Test data set has been deleted: 1
+09/24/2023 02: 54: 56 AM - INFO - Test data set has been deleted: 2
+09/24/2023 02: 54: 56 AM - INFO - Test data set has been deleted: 3
+09/24/2023 02: 54: 56 AM - INFO - Close DB connection
+09/24/2023 02: 59: 14 AM - INFO - Connection to DB using creds: <connection object at 0x0000026290C68150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 02: 59: 14 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 02: 59: 14 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 02: 59: 16 AM - INFO - Getting required ID: 1
+09/24/2023 03: 00: 07 AM - INFO - Test data set has been deleted: 1
+09/24/2023 03: 00: 07 AM - INFO - Test data set has been deleted: 2
+09/24/2023 03: 00: 07 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 00: 07 AM - INFO - Close DB connection
+09/24/2023 03: 12: 48 AM - INFO - Connection to DB using creds: <connection object at 0x000001C669AC7150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 12: 48 AM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 12: 48 AM - INFO - Getting required data: {'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 12: 50 AM - INFO - Getting required ID: 5
+09/24/2023 03: 13: 41 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 13: 41 AM - INFO - Test data set has been deleted: 6
+09/24/2023 03: 13: 41 AM - INFO - Test data set has been deleted: 7
+09/24/2023 03: 13: 41 AM - INFO - Close DB connection
+09/24/2023 03: 32: 44 AM - INFO - Connection to DB using creds: <connection object at 0x000002328F416150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 32: 44 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 32: 44 AM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 32: 46 AM - INFO - Getting required ID: 3
+09/24/2023 03: 33: 23 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 33: 23 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 33: 23 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 33: 23 AM - INFO - Close DB connection
+09/24/2023 03: 35: 24 AM - INFO - Connection to DB using creds: <connection object at 0x000002DCA7CD7150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 35: 24 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 35: 24 AM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 35: 26 AM - INFO - Getting required ID: 3
+09/24/2023 03: 36: 03 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 36: 03 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 36: 03 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 36: 03 AM - INFO - Close DB connection
+09/24/2023 03: 38: 23 AM - INFO - Connection to DB using creds: <connection object at 0x000001BB30E36150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 38: 23 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 38: 23 AM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 38: 25 AM - INFO - Getting required ID: 3
+09/24/2023 03: 39: 02 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 39: 02 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 39: 02 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 39: 02 AM - INFO - Close DB connection
+09/24/2023 03: 43: 20 AM - INFO - Connection to DB using creds: <connection object at 0x0000028B3E4C6150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 43: 20 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 43: 20 AM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 43: 22 AM - INFO - Getting required ID: 3
+09/24/2023 03: 43: 42 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 43: 42 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 43: 42 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 43: 42 AM - INFO - Close DB connection
+09/24/2023 03: 46: 01 AM - INFO - Connection to DB using creds: <connection object at 0x000001DE2A6F6150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 46: 01 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 46: 01 AM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 46: 03 AM - INFO - Getting required ID: 3
+09/24/2023 03: 46: 23 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 46: 23 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 46: 23 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 46: 23 AM - INFO - Close DB connection
+09/24/2023 03: 49: 17 AM - INFO - Connection to DB using creds: <connection object at 0x0000017188686150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 49: 17 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 49: 17 AM - INFO - Getting required data: {'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 03: 49: 19 AM - INFO - Getting required ID: 3
+09/24/2023 03: 49: 55 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 49: 55 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 49: 55 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 49: 55 AM - INFO - Close DB connection
+09/24/2023 03: 51: 56 AM - INFO - Connection to DB using creds: <connection object at 0x00000253714E7150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 51: 56 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 52: 16 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 52: 16 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 52: 16 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 52: 16 AM - INFO - Close DB connection
+09/24/2023 03: 52: 49 AM - INFO - Connection to DB using creds: <connection object at 0x000002D9126E6150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 52: 49 AM - INFO - Test data set has been created: [{'employeeId': 3, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 4, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 5, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 53: 08 AM - INFO - Test data set has been deleted: 3
+09/24/2023 03: 53: 08 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 53: 08 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 53: 08 AM - INFO - Close DB connection
+09/24/2023 03: 56: 55 AM - INFO - Connection to DB using creds: <connection object at 0x0000021950736150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 03: 56: 55 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 03: 57: 14 AM - INFO - Test data set has been deleted: 4
+09/24/2023 03: 57: 14 AM - INFO - Test data set has been deleted: 5
+09/24/2023 03: 57: 14 AM - INFO - Test data set has been deleted: 6
+09/24/2023 03: 57: 14 AM - INFO - Close DB connection
+09/24/2023 04: 15: 44 AM - INFO - Connection to DB using creds: <connection object at 0x000001282F048150; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 15: 44 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 16: 04 AM - INFO - Test data set has been deleted: 4
+09/24/2023 04: 16: 04 AM - INFO - Test data set has been deleted: 5
+09/24/2023 04: 16: 04 AM - INFO - Test data set has been deleted: 6
+09/24/2023 04: 16: 04 AM - INFO - Close DB connection
+09/24/2023 04: 16: 14 AM - INFO - Connection to DB using creds: <connection object at 0x000001AAE1862AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 16: 14 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 16: 33 AM - INFO - Test data set has been deleted: 4
+09/24/2023 04: 16: 33 AM - INFO - Test data set has been deleted: 5
+09/24/2023 04: 16: 33 AM - INFO - Test data set has been deleted: 6
+09/24/2023 04: 16: 33 AM - INFO - Close DB connection
+09/24/2023 04: 17: 53 AM - INFO - Connection to DB using creds: <connection object at 0x000001E661282AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 17: 53 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 18: 12 AM - INFO - Test data set has been deleted: 4
+09/24/2023 04: 18: 12 AM - INFO - Test data set has been deleted: 5
+09/24/2023 04: 18: 12 AM - INFO - Test data set has been deleted: 6
+09/24/2023 04: 18: 12 AM - INFO - Close DB connection
+09/24/2023 04: 19: 07 AM - INFO - Connection to DB using creds: <connection object at 0x0000022ABE5D2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 19: 07 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 19: 26 AM - INFO - Test data set has been deleted: 4
+09/24/2023 04: 19: 26 AM - INFO - Test data set has been deleted: 5
+09/24/2023 04: 19: 26 AM - INFO - Test data set has been deleted: 6
+09/24/2023 04: 19: 26 AM - INFO - Close DB connection
+09/24/2023 04: 20: 30 AM - INFO - Connection to DB using creds: <connection object at 0x00000287A91C3AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 20: 30 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 20: 49 AM - INFO - Test data set has been deleted: 4
+09/24/2023 04: 20: 49 AM - INFO - Close DB connection
+09/24/2023 04: 24: 12 AM - INFO - Connection to DB using creds: <connection object at 0x000002C4F8382AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 24: 12 AM - INFO - Test data set has been created: [{'employeeId': 8, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 9, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 10, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 24: 31 AM - INFO - Test data set has been deleted: 8
+09/24/2023 04: 24: 31 AM - INFO - Test data set has been deleted: 9
+09/24/2023 04: 24: 31 AM - INFO - Test data set has been deleted: 10
+09/24/2023 04: 24: 31 AM - INFO - Close DB connection
+09/24/2023 04: 25: 14 AM - INFO - Connection to DB using creds: <connection object at 0x00000234E9D63AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 25: 14 AM - INFO - Test data set has been created: [{'employeeId': 8, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 9, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 10, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 25: 33 AM - INFO - Test data set has been deleted: 8
+09/24/2023 04: 25: 33 AM - INFO - Test data set has been deleted: 9
+09/24/2023 04: 25: 33 AM - INFO - Test data set has been deleted: 10
+09/24/2023 04: 25: 33 AM - INFO - Close DB connection
+09/24/2023 04: 28: 34 AM - INFO - Connection to DB using creds: <connection object at 0x000002C165DF2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 28: 34 AM - INFO - Test data set has been created: [{'employeeId': 8, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 9, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 10, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 28: 53 AM - INFO - Test data set has been deleted: 8
+09/24/2023 04: 28: 53 AM - INFO - Test data set has been deleted: 9
+09/24/2023 04: 28: 53 AM - INFO - Test data set has been deleted: 10
+09/24/2023 04: 28: 53 AM - INFO - Close DB connection
+09/24/2023 04: 29: 48 AM - INFO - Connection to DB using creds: <connection object at 0x0000022C89BE2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 04: 29: 48 AM - INFO - Test data set has been created: [{'employeeId': 8, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 9, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 10, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 04: 30: 07 AM - INFO - Test data set has been deleted: 8
+09/24/2023 04: 30: 07 AM - INFO - Test data set has been deleted: 9
+09/24/2023 04: 30: 07 AM - INFO - Test data set has been deleted: 10
+09/24/2023 04: 30: 07 AM - INFO - Close DB connection
+09/24/2023 11: 47: 28 AM - INFO - Connection to DB using creds: <connection object at 0x0000022A451C4AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 11: 47: 28 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 11: 47: 47 AM - INFO - Test data set has been deleted: 1
+09/24/2023 11: 47: 47 AM - INFO - Test data set has been deleted: 2
+09/24/2023 11: 47: 47 AM - INFO - Test data set has been deleted: 3
+09/24/2023 11: 47: 47 AM - INFO - Close DB connection
+09/24/2023 11: 54: 57 AM - INFO - Connection to DB using creds: <connection object at 0x000001B7F3F44AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 11: 54: 57 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 11: 55: 16 AM - INFO - Test data set has been deleted: 1
+09/24/2023 11: 55: 16 AM - INFO - Test data set has been deleted: 2
+09/24/2023 11: 55: 17 AM - INFO - Test data set has been deleted: 3
+09/24/2023 11: 55: 17 AM - INFO - Close DB connection
+09/24/2023 11: 57: 49 AM - INFO - Connection to DB using creds: <connection object at 0x000001F4C4F73AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 11: 57: 49 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 11: 58: 08 AM - INFO - Test data set has been deleted: 1
+09/24/2023 11: 58: 08 AM - INFO - Test data set has been deleted: 2
+09/24/2023 11: 58: 08 AM - INFO - Test data set has been deleted: 3
+09/24/2023 11: 58: 08 AM - INFO - Close DB connection
+09/24/2023 12: 03: 22 PM - INFO - Connection to DB using creds: <connection object at 0x000001AB4F773AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 03: 22 PM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 03: 41 PM - INFO - Test data set has been deleted: 5
+09/24/2023 12: 03: 41 PM - INFO - Test data set has been deleted: 6
+09/24/2023 12: 03: 41 PM - INFO - Test data set has been deleted: 7
+09/24/2023 12: 03: 41 PM - INFO - Close DB connection
+09/24/2023 12: 08: 16 PM - INFO - Connection to DB using creds: <connection object at 0x000001CCCA503AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 08: 16 PM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 08: 35 PM - INFO - Test data set has been deleted: 5
+09/24/2023 12: 08: 35 PM - INFO - Test data set has been deleted: 6
+09/24/2023 12: 08: 35 PM - INFO - Test data set has been deleted: 7
+09/24/2023 12: 08: 35 PM - INFO - Close DB connection
+09/24/2023 12: 10: 02 PM - INFO - Connection to DB using creds: <connection object at 0x000001B29C7B2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 10: 02 PM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 10: 21 PM - INFO - Test data set has been deleted: 5
+09/24/2023 12: 10: 21 PM - INFO - Test data set has been deleted: 6
+09/24/2023 12: 10: 21 PM - INFO - Test data set has been deleted: 7
+09/24/2023 12: 10: 21 PM - INFO - Close DB connection
+09/24/2023 12: 16: 55 PM - INFO - Connection to DB using creds: <connection object at 0x000001FD23D03AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 16: 55 PM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 17: 14 PM - INFO - Test data set has been deleted: 5
+09/24/2023 12: 17: 14 PM - INFO - Test data set has been deleted: 6
+09/24/2023 12: 17: 14 PM - INFO - Test data set has been deleted: 7
+09/24/2023 12: 17: 14 PM - INFO - Close DB connection
+09/24/2023 12: 18: 05 PM - INFO - Connection to DB using creds: <connection object at 0x0000018EB1593AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 18: 05 PM - INFO - Test data set has been created: [{'employeeId': 9, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 10, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 11, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 18: 24 PM - INFO - Test data set has been deleted: 9
+09/24/2023 12: 18: 24 PM - INFO - Test data set has been deleted: 10
+09/24/2023 12: 18: 24 PM - INFO - Test data set has been deleted: 11
+09/24/2023 12: 18: 24 PM - INFO - Close DB connection
+09/24/2023 12: 19: 59 PM - INFO - Connection to DB using creds: <connection object at 0x00000240318D3AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 19: 59 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 20: 18 PM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 20: 18 PM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 20: 18 PM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 20: 18 PM - INFO - Close DB connection
+09/24/2023 12: 23: 04 PM - INFO - Connection to DB using creds: <connection object at 0x000001E4D7C13AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 23: 04 PM - INFO - Test data set has been created: [{'employeeId': 5, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 6, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 7, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 23: 24 PM - INFO - Test data set has been deleted: 5
+09/24/2023 12: 23: 24 PM - INFO - Test data set has been deleted: 6
+09/24/2023 12: 23: 24 PM - INFO - Test data set has been deleted: 7
+09/24/2023 12: 23: 24 PM - INFO - Close DB connection
+09/24/2023 12: 32: 01 PM - INFO - Connection to DB using creds: <connection object at 0x0000026369643AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 32: 01 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 32: 18 PM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 32: 18 PM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 32: 18 PM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 32: 18 PM - INFO - Close DB connection
+09/24/2023 12: 32: 56 PM - INFO - Connection to DB using creds: <connection object at 0x000001D044363AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 32: 56 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 33: 16 PM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 33: 16 PM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 33: 16 PM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 33: 16 PM - INFO - Close DB connection
+09/24/2023 12: 36: 23 PM - INFO - Connection to DB using creds: <connection object at 0x000002232E304AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 36: 23 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 36: 42 PM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 36: 42 PM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 36: 42 PM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 36: 42 PM - INFO - Close DB connection
+09/24/2023 12: 36: 51 PM - INFO - Connection to DB using creds: <connection object at 0x00000168B3BE3AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 12: 36: 51 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 12: 37: 10 PM - INFO - Test data set has been deleted: 1
+09/24/2023 12: 37: 10 PM - INFO - Test data set has been deleted: 2
+09/24/2023 12: 37: 10 PM - INFO - Test data set has been deleted: 3
+09/24/2023 12: 37: 10 PM - INFO - Close DB connection
+09/24/2023 01: 51: 38 PM - INFO - Connection to DB using creds: <connection object at 0x0000017C530C2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 51: 38 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 51: 57 PM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 51: 57 PM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 51: 57 PM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 51: 57 PM - INFO - Close DB connection
+09/24/2023 01: 52: 29 PM - INFO - Connection to DB using creds: <connection object at 0x000002C8F0232AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 52: 29 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 52: 48 PM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 52: 48 PM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 52: 48 PM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 52: 48 PM - INFO - Close DB connection
+09/24/2023 01: 53: 36 PM - INFO - Connection to DB using creds: <connection object at 0x000002357A953AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 01: 53: 36 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 01: 54: 10 PM - INFO - Test data set has been deleted: 1
+09/24/2023 01: 54: 10 PM - INFO - Test data set has been deleted: 2
+09/24/2023 01: 54: 10 PM - INFO - Test data set has been deleted: 3
+09/24/2023 01: 54: 10 PM - INFO - Close DB connection
+09/24/2023 09: 28: 24 PM - INFO - Connection to DB using creds: <connection object at 0x0000027CC6CA2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 09: 28: 24 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 09: 28: 24 PM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 09: 28: 45 PM - INFO - Test data set has been deleted: 1
+09/24/2023 09: 28: 45 PM - INFO - Test data set has been deleted: 2
+09/24/2023 09: 28: 45 PM - INFO - Test data set has been deleted: 3
+09/24/2023 09: 28: 45 PM - INFO - Close DB connection
+09/24/2023 09: 29: 26 PM - INFO - Connection to DB using creds: <connection object at 0x0000029A51F52AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 09: 29: 26 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 09: 29: 26 PM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 09: 30: 02 PM - INFO - Test data set has been deleted: 1
+09/24/2023 09: 30: 02 PM - INFO - Test data set has been deleted: 2
+09/24/2023 09: 30: 02 PM - INFO - Test data set has been deleted: 3
+09/24/2023 09: 30: 02 PM - INFO - Close DB connection
+09/24/2023 10: 07: 03 PM - INFO - Connection to DB using creds: <connection object at 0x00000252B82A4AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 10: 07: 03 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 10: 07: 03 PM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 10: 07: 24 PM - INFO - Test data set has been deleted: 1
+09/24/2023 10: 07: 24 PM - INFO - Test data set has been deleted: 2
+09/24/2023 10: 07: 24 PM - INFO - Test data set has been deleted: 3
+09/24/2023 10: 07: 24 PM - INFO - Close DB connection
+09/24/2023 10: 11: 04 PM - INFO - Connection to DB using creds: <connection object at 0x0000024FF4BC2AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 10: 11: 04 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 10: 11: 04 PM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 10: 11: 25 PM - INFO - Test data set has been deleted: 1
+09/24/2023 10: 11: 25 PM - INFO - Test data set has been deleted: 2
+09/24/2023 10: 11: 25 PM - INFO - Test data set has been deleted: 3
+09/24/2023 10: 11: 25 PM - INFO - Close DB connection
+09/24/2023 10: 12: 02 PM - INFO - Connection to DB using creds: <connection object at 0x0000021CCEB23AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/24/2023 10: 12: 02 PM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/24/2023 10: 12: 02 PM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/24/2023 10: 12: 23 PM - INFO - Test data set has been deleted: 1
+09/24/2023 10: 12: 23 PM - INFO - Test data set has been deleted: 2
+09/24/2023 10: 12: 23 PM - INFO - Test data set has been deleted: 3
+09/24/2023 10: 12: 23 PM - INFO - Close DB connection
+09/25/2023 12: 32: 54 AM - INFO - Connection to DB using creds: <connection object at 0x0000021269624AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 32: 54 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 32: 54 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 33: 13 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 33: 13 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 33: 13 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 33: 13 AM - INFO - Close DB connection
+09/25/2023 12: 34: 23 AM - INFO - Connection to DB using creds: <connection object at 0x00000215CEE33AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 34: 23 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 34: 23 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 34: 42 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 34: 42 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 34: 42 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 34: 42 AM - INFO - Close DB connection
+09/25/2023 12: 36: 17 AM - INFO - Connection to DB using creds: <connection object at 0x0000023E867F3AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 36: 17 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 36: 17 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 36: 37 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 36: 37 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 36: 37 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 36: 37 AM - INFO - Close DB connection
+09/25/2023 12: 43: 41 AM - INFO - Connection to DB using creds: <connection object at 0x000001C94F643AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 43: 41 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 43: 41 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 44: 00 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 44: 00 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 44: 00 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 44: 00 AM - INFO - Close DB connection
+09/25/2023 12: 44: 43 AM - INFO - Connection to DB using creds: <connection object at 0x000002179CC62AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 44: 43 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 44: 43 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 45: 17 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 45: 17 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 45: 17 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 45: 17 AM - INFO - Close DB connection
+09/25/2023 12: 46: 02 AM - INFO - Connection to DB using creds: <connection object at 0x000001D8E5264AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 46: 02 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 46: 02 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 46: 19 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 46: 19 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 46: 19 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 46: 19 AM - INFO - Close DB connection
+09/25/2023 12: 46: 36 AM - INFO - Connection to DB using creds: <connection object at 0x0000026F45764AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 46: 36 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 46: 36 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 47: 11 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 47: 11 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 47: 11 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 47: 11 AM - INFO - Close DB connection
+09/25/2023 12: 49: 05 AM - INFO - Connection to DB using creds: <connection object at 0x0000023249D03AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 49: 05 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 49: 05 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 49: 39 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 49: 39 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 49: 39 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 49: 39 AM - INFO - Close DB connection
+09/25/2023 12: 50: 55 AM - INFO - Connection to DB using creds: <connection object at 0x0000025325783AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 50: 55 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 50: 55 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 51: 29 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 51: 29 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 51: 29 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 51: 29 AM - INFO - Close DB connection
+09/25/2023 12: 52: 05 AM - INFO - Connection to DB using creds: <connection object at 0x0000018837FB3AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 12: 52: 05 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 12: 52: 05 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 12: 52: 40 AM - INFO - Test data set has been deleted: 1
+09/25/2023 12: 52: 40 AM - INFO - Test data set has been deleted: 2
+09/25/2023 12: 52: 40 AM - INFO - Test data set has been deleted: 3
+09/25/2023 12: 52: 40 AM - INFO - Close DB connection
+09/25/2023 01: 13: 41 AM - INFO - Connection to DB using creds: <connection object at 0x000002B33AAE3AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 01: 13: 41 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 01: 13: 41 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 01: 14: 00 AM - INFO - Test data set has been deleted: 1
+09/25/2023 01: 14: 00 AM - INFO - Test data set has been deleted: 2
+09/25/2023 01: 14: 00 AM - INFO - Test data set has been deleted: 3
+09/25/2023 01: 14: 00 AM - INFO - Close DB connection
+09/25/2023 01: 21: 32 AM - INFO - Connection to DB using creds: <connection object at 0x000001131AA04AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 01: 21: 32 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 01: 21: 32 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 01: 21: 49 AM - INFO - Test data set has been deleted: 1
+09/25/2023 01: 21: 49 AM - INFO - Close DB connection
+09/25/2023 01: 25: 39 AM - INFO - Connection to DB using creds: <connection object at 0x0000013FCD914AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 01: 25: 39 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 01: 25: 39 AM - INFO - Getting required data: {'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 01: 25: 41 AM - INFO - Getting required ID: 4
+09/25/2023 01: 26: 18 AM - INFO - Test data set has been deleted: 4
+09/25/2023 01: 26: 18 AM - INFO - Test data set has been deleted: 5
+09/25/2023 01: 26: 18 AM - INFO - Test data set has been deleted: 6
+09/25/2023 01: 26: 18 AM - INFO - Close DB connection
+09/25/2023 01: 27: 47 AM - INFO - Connection to DB using creds: <connection object at 0x0000013E41903AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 01: 27: 47 AM - INFO - Test data set has been created: [{'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 5, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 6, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 01: 27: 47 AM - INFO - Getting required data: {'employeeId': 4, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 01: 27: 49 AM - INFO - Getting required ID: 4
+09/25/2023 01: 28: 26 AM - INFO - Test data set has been deleted: 4
+09/25/2023 01: 28: 26 AM - INFO - Test data set has been deleted: 5
+09/25/2023 01: 28: 26 AM - INFO - Test data set has been deleted: 6
+09/25/2023 01: 28: 26 AM - INFO - Close DB connection
+09/25/2023 01: 29: 06 AM - INFO - Connection to DB using creds: <connection object at 0x0000014892363AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 01: 29: 06 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 01: 29: 06 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 01: 29: 08 AM - INFO - Getting required ID: 1
+09/25/2023 01: 29: 46 AM - INFO - Test data set has been deleted: 1
+09/25/2023 01: 29: 46 AM - INFO - Test data set has been deleted: 2
+09/25/2023 01: 29: 46 AM - INFO - Test data set has been deleted: 3
+09/25/2023 01: 29: 46 AM - INFO - Close DB connection
+09/25/2023 01: 30: 28 AM - INFO - Connection to DB using creds: <connection object at 0x0000027A12733AE0; dsn: 'user=postgres password=xxx dbname=testbase host=localhost port=5432', closed: 0>
+09/25/2023 01: 30: 28 AM - INFO - Test data set has been created: [{'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}, {'employeeId': 2, 'name': 'Jack', 'organization': 'Finance', 'role': 'Accountant'}, {'employeeId': 3, 'name': 'Ariel', 'organization': 'Marketing', 'role': 'Marketing Specialist'}]
+09/25/2023 01: 30: 28 AM - INFO - Getting required data: {'employeeId': 1, 'name': 'Eddy', 'organization': 'IT', 'role': 'Lead Developer'}
+09/25/2023 01: 30: 30 AM - INFO - Getting required ID: 1
+09/25/2023 01: 31: 07 AM - INFO - Test data set has been deleted: 1
+09/25/2023 01: 31: 07 AM - INFO - Test data set has been deleted: 2
+09/25/2023 01: 31: 07 AM - INFO - Test data set has been deleted: 3
+09/25/2023 01: 31: 07 AM - INFO - Close DB connection
