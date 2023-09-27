@@ -23,6 +23,7 @@ def test_add_employee(employees_endpoint, body, response_body, get_max_employee_
                                     get_employee_by_id=get_employee_by_id)
     employees_endpoint.remove_emp_by_id(del_employee_by_id)
 
+
 def test_update_employee(employees_endpoint, first_created_employee_data):
     employees_endpoint.update_employee(first_created_employee_data=first_created_employee_data, body={
         "name": "Jamal",
@@ -37,6 +38,32 @@ def test_part_update_employee(employees_endpoint, first_created_employee_data):
         "organization": "GLO"
     })
 
+
 def test_delete_employee(employees_endpoint, first_created_employee_data, select_all_from_table):
     employees_endpoint.delete_employee(first_created_employee_data=first_created_employee_data)
     employees_endpoint.check_removed_employee(select_all_from_table=select_all_from_table)
+
+
+def test_single_employee_schema(employees_endpoint):
+    employees_endpoint.single_emp_schema_validation()
+
+
+def test_add_employee_schema(employees_endpoint):
+    employees_endpoint.add_employee_schema_validation()
+    employees_endpoint.remove_added_employee()
+
+
+def test_all_employee_schema(employees_endpoint):
+    employees_endpoint.get_all_employees_schema()
+
+
+def test_update_employee_schema(employees_endpoint, first_created_employee_data):
+    employees_endpoint.update_employee_schema(first_created_employee_data)
+
+
+def test_part_update_employee_schema(employees_endpoint, first_created_employee_data):
+    employees_endpoint.part_update_employee_schema(first_created_employee_data)
+
+
+def test_delete_employee_schema(employees_endpoint, first_created_employee_data):
+    employees_endpoint.delete_employee_schema(first_created_employee_data)

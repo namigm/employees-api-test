@@ -1,8 +1,13 @@
 import requests
+import jsonschema
+from support.json_reader import Deserialize
+from env_setup import SINGLE_EMP_SCHEMA, ADD_EMP_SCHEMA, ALL_EMP_SCHEMA, \
+    UPDATE_EMP_SCHEMA, PART_UPDATE_EMP_SCHEMA, DEL_EMP_SCHEMA
 
 
 class Employees:
     max_emp_id = 0
+    added_emp_id = 0
 
     def __init__(self, url: str, session: requests.Session, token: str):
         self.url = url
@@ -80,13 +85,56 @@ class Employees:
         delete_employee = self.session.delete(url=f'{self.url}/{emp_id}', headers=self.headers)
         response = delete_employee.json()
         assert delete_employee.status_code == 200, f"Actual status_code is {delete_employee.status_code} but expected " \
-                                            f"is 200 "
+                                                   f"is 200 "
         assert response == {
             "message": "Employee deleted"}, f"Actual message is  {response}, " \
                                             f"but expected message: Employee deleted"
 
-    def check_removed_employee(self, select_all_from_table):
+    @staticmethod
+    def check_removed_employee(select_all_from_table):
         employees = [row[0] for row in select_all_from_table]
         assert "Namik" not in employees, f'Employee still in {employees}'
 
+    def single_emp_schema_validation(self):
+        response = self.session.get(f'{self.url}/1', headers=self.headers)
+        jsonschema.validate(response.json(), Deserialize(SINGLE_EMP_SCHEMA).single_employee_schema())
+
+    def add_employee_schema_validation(self):
+        response = self.session.post(url=self.url, headers=self.headers, json={
+            "name": "Togrul",
+            "organization": "Business",
+            "role": "AQA"
+        })
+        self.added_emp_id = response.json()["employeeId"]
+        jsonschema.validate(response.json(), Deserialize(ADD_EMP_SCHEMA).add_employee_schema())
+
+    def remove_added_employee(self):
+        self.session.delete(url=f'{self.url}/{self.added_emp_id}', headers=self.headers)
+
+    def get_all_employees_schema(self):
+        response = self.session.get(f'{self.url}', headers=self.headers)
+        jsonschema.validate(response.json(), Deserialize(ALL_EMP_SCHEMA).all_employee_schema())
+
+    def update_employee_schema(self, first_created_employee_data):
+        emp_id = first_created_employee_data["employeeId"]
+        response = self.session.put(url=f'{self.url}/{emp_id}', headers=self.headers, json={
+            "name": "Namik",
+            "organization": "Guava",
+            "role": "QA"
+        })
+        jsonschema.validate(response.json(), Deserialize(UPDATE_EMP_SCHEMA).update_employee_schema())
+
+    def part_update_employee_schema(self, first_created_employee_data):
+        emp_id = first_created_employee_data["employeeId"]
+        response = self.session.patch(url=f'{self.url}/{emp_id}', headers=self.headers, json={
+            "name": "Nicat",
+            "organization": "Guava",
+            "role": "QA"
+        })
+        jsonschema.validate(response.json(), Deserialize(PART_UPDATE_EMP_SCHEMA).part_update_employee_schema())
+
+    def delete_employee_schema(self, first_created_employee_data):
+        emp_id = first_created_employee_data["employeeId"]
+        response = self.session.delete(url=f'{self.url}/{emp_id}', headers=self.headers)
+        jsonschema.validate(response.json(), Deserialize(DEL_EMP_SCHEMA).delete_employee_schema())
 
