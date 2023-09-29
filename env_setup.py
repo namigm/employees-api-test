@@ -19,5 +19,11 @@ class Credentials:
         return cls(Credentials.APP_SUPERUSER, Credentials.APP_PASSWORD)
 
 
-print(Credentials.get_env_variables())
+ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
+SINGLE_EMP_SCHEMA = os.path.join(ROOT_PATH, 'schemas', 'single_employee_schema.json')
+ADD_EMP_SCHEMA = os.path.join(ROOT_PATH, "schemas", 'add_employee_schema.json')
+ALL_EMP_SCHEMA = os.path.join(ROOT_PATH, 'schemas', 'all_employee_schema.json')
+UPDATE_EMP_SCHEMA = os.path.join(ROOT_PATH, 'schemas', 'update_employee_schema.json')
+PART_UPDATE_EMP_SCHEMA = os.path.join(ROOT_PATH, 'schemas', 'part_update_employee_schema.json')
+DEL_EMP_SCHEMA = os.path.join(ROOT_PATH, 'schemas', 'delete_employee_schema.json')
 
