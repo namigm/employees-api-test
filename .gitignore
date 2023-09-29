@@ -2,3 +2,5 @@
 **/logfile.log
 venv
 .env
+**/.idea
+**/pycache
