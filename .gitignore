@@ -3,4 +3,4 @@
 venv
 .env
 **/.idea
-**/pycache
+**/__pycache__
